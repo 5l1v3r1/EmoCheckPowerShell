@@ -3,15 +3,14 @@
 <#
 .SYNOPSIS 
     Searches for Emotet based on process names. 
-    All credit goes to JPCERT to which this PowerShell code was adapted.
+    All credit goes to JPCERT from this PowerShell code was adapted.
 
 .NOTES
     Author: Zane Gittins
     Last Updated: 11/26/2019
     
     Credits 
-    
-    * https://github.com/JPCERTCC/EmoCheck
+        1. https://github.com/JPCERTCC/EmoCheck
 #>
 
 param ()
