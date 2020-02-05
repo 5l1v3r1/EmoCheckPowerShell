@@ -3,7 +3,7 @@
 <#
 .SYNOPSIS 
     Searches for Emotet based on process names. 
-    All credit goes to JPCERT from this PowerShell code was adapted.
+    All credit goes to JPCERT from which this PowerShell code was adapted.
 
 .NOTES
     Author: Zane Gittins

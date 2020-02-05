@@ -4,7 +4,7 @@ Author: Zane Gittins
 
 ## Description 
 
-PowerShell implementation of JPCerts EmoCheck. Searches for Emotet based on process names. All credit goes to JPCERT from this PowerShell code was adapted.
+PowerShell implementation of JPCerts EmoCheck. Searches for Emotet based on process names. All credit goes to JPCERT from which this PowerShell code was adapted.
 
 Detects Emotet based on the unique way Emotet chooses it's process name from the following keywords:
 
